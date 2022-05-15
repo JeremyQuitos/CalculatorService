@@ -1,0 +1,7 @@
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\CalcAdd.deps.json
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\CalcAdd.runtimeconfig.json
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\CalcAdd.pdb
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Demo\CalcAdd\src\CalcAdd\bin\Release\net6.0\publish\CalcAdd.dll

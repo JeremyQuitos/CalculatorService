@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EvjO0Y/k0PBHf9TP8SRvf3GHT6nrcFzMo65IGfkWi1KngTjr2USSJsUp4zxSVPv9kP3+g7avyWdgwM/glk6oLQ==",
+  "success": true,
+  "projectFilePath": "C:\\Calculator\\CalcMul\\src\\CalcMul\\CalcMul.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jeremy.Quitos\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.4.1\\amazon.lambda.apigatewayevents.2.4.1.nupkg.sha512",
+    "C:\\Users\\Jeremy.Quitos\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\Jeremy.Quitos\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.3.0\\amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "C:\\Users\\Jeremy.Quitos\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.3\\microsoft.netcore.app.crossgen2.win-x64.6.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

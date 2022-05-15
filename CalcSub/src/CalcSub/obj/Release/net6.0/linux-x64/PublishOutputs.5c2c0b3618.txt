@@ -1,0 +1,7 @@
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\CalcSub.deps.json
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\CalcSub.runtimeconfig.json
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\CalcSub.pdb
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+c:\Demo\CalcSub\src\CalcSub\bin\Release\net6.0\publish\CalcSub.dll

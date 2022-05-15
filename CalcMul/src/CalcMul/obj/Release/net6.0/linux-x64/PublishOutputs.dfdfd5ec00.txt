@@ -1,0 +1,7 @@
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\CalcMul.deps.json
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\CalcMul.runtimeconfig.json
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\CalcMul.pdb
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+c:\Demo\CalcMul\src\CalcMul\bin\Release\net6.0\publish\CalcMul.dll

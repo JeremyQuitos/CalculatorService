@@ -1,0 +1,7 @@
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\CalcDiv.deps.json
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\CalcDiv.runtimeconfig.json
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\CalcDiv.pdb
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\Amazon.Lambda.APIGatewayEvents.dll
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\Amazon.Lambda.Core.dll
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\Amazon.Lambda.Serialization.SystemTextJson.dll
+c:\Demo\CalcDiv\src\CalcDiv\bin\Release\net6.0\publish\CalcDiv.dll

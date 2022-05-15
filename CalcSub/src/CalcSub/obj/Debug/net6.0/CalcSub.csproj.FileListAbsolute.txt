@@ -1,0 +1,17 @@
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\CalcSub.deps.json
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\CalcSub.runtimeconfig.json
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\CalcSub.dll
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\CalcSub.pdb
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\Amazon.Lambda.Core.dll
+C:\Demo\CalcSub\src\CalcSub\bin\Debug\net6.0\Amazon.Lambda.Serialization.SystemTextJson.dll
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.csproj.AssemblyReference.cache
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.AssemblyInfoInputs.cache
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.AssemblyInfo.cs
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.csproj.CoreCompileInputs.cache
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.csproj.CopyComplete
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.dll
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\refint\CalcSub.dll
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.pdb
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\CalcSub.genruntimeconfig.cache
+C:\Demo\CalcSub\src\CalcSub\obj\Debug\net6.0\ref\CalcSub.dll
