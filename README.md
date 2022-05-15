@@ -12,16 +12,16 @@ Make sure AWS CLI is installed and configured.
 
 -- Create a lambda function (.NET)
 
--- open console and navigate to directory/folder where you want to create the function (e.g. cd C:\Calculator)
+open console and navigate to directory/folder where you want to create the function (e.g. cd C:\Calculator)
 
--- dotnet new lambda.EmptyFunction --name <function name>
+run: dotnet new lambda.EmptyFunction --name [function name]
 
 
 -- Deploy a lambda function
 
--- open console and navigate to directory/folder where the function is (e.g. cd C:\Calculator\CalcAdd\src\CalcAdd)
+open console and navigate to directory/folder where the function is (e.g. cd C:\Calculator\CalcAdd\src\CalcAdd)
 
--- dotnet lambda deploy-function <function name>
+run: dotnet lambda deploy-function [function name]
 
 ---
 
